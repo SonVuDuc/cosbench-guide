@@ -1,2 +1,3 @@
-# hitachi-nas
-Ghi chép về quá trình tìm hiểu về sản phẩm HNAS
+# Ghi chép về quá trình tìm hiểu Hitachi NAS
+
+
